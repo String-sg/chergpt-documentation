@@ -1,5 +1,8 @@
 # CherGPT Starter Kit Documentation
 Deploy your own learning companion, with basic insights into how your students interact with a large language model
+![image](https://github.com/String-sg/chergpt-documentation/assets/44336310/523007b2-ee6e-4380-a8cc-39e35c91c24c)
+
+## Login Screen
 <img width="1030" alt="image" src="https://github.com/String-sg/chergpt-documentation/assets/44336310/87c74e40-31ff-4e85-ae40-a667e1949416">
 
 Note: typically you won't have to fork the repo unless you are keen on supporting documentation efforts:
