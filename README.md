@@ -1,5 +1,5 @@
-# Website
-
+# CherGPT Starter Kit Documentation
+<img width="1030" alt="image" src="https://github.com/String-sg/chergpt-documentation/assets/44336310/87c74e40-31ff-4e85-ae40-a667e1949416">
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
