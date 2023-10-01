@@ -7,6 +7,9 @@ Deploy your own learning companion, with basic insights into how your students i
 
 Note: typically you won't have to fork the repo unless you are keen on supporting documentation efforts:
 ### Installation
+```
+npm install @docusaurus/preset-classic
+```
 
 ```
 $ npm
