@@ -2,15 +2,15 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# CherGPT Starter Kit Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **CherGPT Starter Kit in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **cloning the CherGPT Starter Kit repository**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Or **try Docusaurus immediately** with **[CherGPT](https://github.com/String-sg/chergpt-starter-kit)**.
 
 ### What you'll need
 

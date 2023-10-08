@@ -19,7 +19,9 @@
     "@docusaurus/core": "^2.4.3",
     "@docusaurus/preset-classic": "file:latest@docusaurus/module-type-aliases@latest",
     "@mdx-js/react": "^1.6.22",
+    "classic": "^0.0.2",
     "clsx": "^1.2.1",
+    "docusaurus-preset-classic": "^2.0.0-beta.15",
     "prism-react-renderer": "^1.3.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
